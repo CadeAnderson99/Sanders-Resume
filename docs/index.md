@@ -17,7 +17,8 @@ Aspiring Accountant with Data Science Skills
 `2021-Current`
 __Brigham Young University Idaho__, Rexburg, ID
 
-- Major: Accounting - Minor: Data Science
+- Major: Accounting 
+- Minor: Data Science
 - 3.64 GPA
 
 ## Related Experience
@@ -31,7 +32,7 @@ __Melaleuca Inc__, Idaho Falls, ID
 - Used SQL in various projects designed to improve template designs for accounting processes. 
 - Performed monthly accounting tasks including bank reconciliations, closing tasks, reporting, etc. 
 
-## Service and Work History
+## Work Experience
 
 `2021-2022`
 __Deli Assosicate__, Walmart
@@ -39,14 +40,6 @@ __Deli Assosicate__, Walmart
 - Adhere to quality standards for customer service as outlined by supervisor. 
 - Ensured satisfied guests with excellent service and communication. 
 - Processed orders to accommodate customers special requests.
-
-`2019-2021`
-__Service Missionary__, Portland Oregon
-
-- Assisted the Mission President for a year by facilitating mission logistics and inventory, taught and trained other mission leaders and missionaries in groups up to 270. Responsible for setting up and running complex technical solutions to facilitate large in-person interactive gatherings with remote presenters. Also was a point person for technology, assisting with technical problems throughout the mission   
-- Assisted in leading a zone of missionaries of 18-25 individuals for nine months. Charged to coordinate missionary efforts with local church leaders and looking after the welfare, leading, training, and pace setting of those missionaries    
-- Assisted in leading a district of missionaries ranging from 10-12 individuals for a month and a half. Charged with the welfare, leading, training, and pace setting of those missionaries  
-- Taught others about the teachings of Jesus Christ for 2 years alongside leadership opportunities. I learned how to teach, communicate, and relate with people of all races, religions, and backgrounds 
 
 `2017-2019`
 __Supervisor, Swim Instructor, Lifeguard, Operations__, Lifetime Fitness
@@ -64,9 +57,27 @@ __Trainer, Team Member__, Chick-fil-a
 - Assisted with training new team members as needed and performed other duties assigned by management within scope of job description. 
 - Performed other duties as assigned or required during peak business hours such as special events, store openings/closings, etc. 
 
-<!-- ### Footer
+## Volunteer Experience
 
-Last updated: May 2013 -->
-Last updated: May 2013 -->
+`2019-2021`
+__Service Missionary__, Portland Oregon
 
+- Assisted the Mission President for a year by facilitating mission logistics and inventory, taught and trained other mission leaders and missionaries in groups up to 270. Responsible for setting up and running complex technical solutions to facilitate large in-person interactive gatherings with remote presenters. Also was a point person for technology, assisting with technical problems throughout the mission   
+- Assisted in leading a zone of missionaries of 18-25 individuals for nine months. Charged to coordinate missionary efforts with local church leaders and looking after the welfare, leading, training, and pace setting of those missionaries    
+- Assisted in leading a district of missionaries ranging from 10-12 individuals for a month and a half. Charged with the welfare, leading, training, and pace setting of those missionaries  
+- Taught others about the teachings of Jesus Christ for 2 years alongside leadership opportunities. I learned how to teach, communicate, and relate with people of all races, religions, and backgrounds 
+
+<!-- 
+# Consider condensing these bullet points to be about one sentence long 
+
+# Maybe include one other volunteer experience
+
+# Other than these, this is looking very good!
+-->
+
+
+<br>
+<br>
+
+*Last updated: May 2013*
 
